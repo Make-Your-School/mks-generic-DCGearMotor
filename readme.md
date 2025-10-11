@@ -1,4 +1,3 @@
-
 ---
 title: "Gleichstrommotor mit Getriebe"
 date: "2018-10-01T14:21:43.000Z"
