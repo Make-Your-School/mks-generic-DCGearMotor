@@ -3,7 +3,7 @@ title: "Gleichstrommotor mit Getriebe"
 date: "2018-10-01T14:21:43.000Z"
 tags: 
   - "output"
-coverImage: "42_gleichstrommotor_mit_getriebe.jpg"
+coverImage: "42_gleichstrommotor_mit_getriebe.png"
 material_number: "42"
 material_type: "output"
 material_short_descr: "[Dagu DC Gear Motor Paar – 90 Degree Shaft]
