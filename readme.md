@@ -22,9 +22,15 @@ embedded_example_file: "examples/DCGearMotor_minimal/DCGearMotor_minimal.ino"
 ![Gleichstrommotor mit Getriebe](./42_gleichstrommotor_mit_getriebe.png)
 
 ## Beschreibung
-Ein Gleichstrommotor dreht solange, wie er an einer Spannungsquelle hängt und ist dadurch auf endloses Drehen optimal ausgelegt. Dagegen ist die genaue Positionierung etwas schwieriger, da die Drehgeschwindigkeit von der Kraft die er aufbringen muss, abhängt. Die Steuerung erfolgt über ein einfaches Relais, einen Transistor, einen manuellen Schalter oder einen Motortreiber, der als fertiges Modul zwischen Mikrocontroller und Gleichstrommotor geschaltet wird.
+Ein Gleichstrommotor dreht solange, wie er an einer Spannungsquelle hängt und ist dadurch auf endloses Drehen optimal ausgelegt. 
+Dagegen ist die genaue Positionierung etwas schwieriger, da die Drehgeschwindigkeit von der Kraft die er aufbringen muss, abhängt. 
+Die Steuerung erfolgt über ein einfaches Relais, einen Transistor, einen manuellen Schalter oder einen Motortreiber, der als fertiges Modul zwischen Mikrocontroller und Gleichstrommotor geschaltet wird.
 
-Im Materialkoffer sind Motoren mit zwei Getriebevarianten enthalten. Die Getriebe ermöglichen eine Übersetzung der Drehung der Motoren. Je höher die Übersetzung gewählt wird, desto langsamer dreht der Motor. Gleichzeitig steigt aber die maximale Belastbarkeit des Motors. Je nach gewähltem Motor, kann dieser von der gezeigten Abbildung abweichen
+<!-- more_details -->
+
+Im Materialkoffer sind Motoren mit zwei Getriebevarianten enthalten. Die Getriebe ermöglichen eine Übersetzung der Drehung der Motoren. 
+Je höher die Übersetzung gewählt wird, desto langsamer dreht der Motor. Gleichzeitig steigt aber die maximale Belastbarkeit des Motors. 
+Je nach gewähltem Motor, kann dieser von der gezeigten Abbildung abweichen
 
 Alle weiteren Hintergrundinformationen, sowie ein Beispielaufbau und alle notwendigen Programmbibliotheken findet man über alle gängigen Suchmaschinen durch die Eingabe der genauen Komponentenbezeichnungen. Das wichtige Stichwort lautet hier „DC Motor“ oder „Gleichstrommotor“.
 
