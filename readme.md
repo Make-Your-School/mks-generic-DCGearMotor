@@ -1,5 +1,5 @@
 ---
-title: "Gleichstrommotor mit Getriebe"
+title: 'Gleichstrommotor mit Getriebe'
 date: "2018-10-01T14:21:43.000Z"
 tags: 
   - "output"
@@ -14,6 +14,8 @@ clone_url: "https://github.com/Make-Your-School/mks-generic-DCGearMotor.git"
 repo_prefix: "mks"
 repo_part: "DCGearMotor"
 embedded_example_file: "examples/DCGearMotor_minimal/DCGearMotor_minimal.ino"
+status: 'active'
+difficulty: 'recommend'
 ---
 
 # Gleichstrommotor mit Getriebe
