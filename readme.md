@@ -14,6 +14,9 @@ clone_url: "https://github.com/Make-Your-School/mks-generic-DCGearMotor.git"
 repo_prefix: "mks"
 repo_part: "DCGearMotor"
 embedded_example_file: "examples/DCGearMotor_minimal/DCGearMotor_minimal.ino"
+title: 'Gleichstrommotor mit Getriebe'
+status: 'active'
+difficulty: 'recommend'
 ---
 
 
