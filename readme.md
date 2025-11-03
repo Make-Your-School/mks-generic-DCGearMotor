@@ -3,6 +3,10 @@ title: 'Gleichstrommotor mit Getriebe'
 date: "2018-10-01T14:21:43.000Z"
 tags: 
   - "output"
+  - "motor"
+  - "dc"
+  - "getriebe"
+  - "gear"
 coverImage: "42_gleichstrommotor_mit_getriebe.png"
 material_number: "42"
 material_type: "output"
